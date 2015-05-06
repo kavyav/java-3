@@ -6,7 +6,7 @@
 *.un~
 *.tmp
 *.bk
-*.bkup
+*.bkupfgrrrr
 .kitchen.local.yml
 Berksfile.lock
 Gemfile.lock
